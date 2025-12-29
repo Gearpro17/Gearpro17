@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gearpro17
-- 👀 I’m interested in the grindset 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on grind opportunities
+- 👀 I’m currently learning new architectures and building projects from scratch. 
+- 🌱 I’m currently working full-time for ION group as a full-stack software Eng.
+- I’m looking to collaborate on small learning projects as I don't have much time.
 - 📫 How to reach me joelecossu117@gmail.com
 
 <!---
